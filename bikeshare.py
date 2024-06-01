@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+#Author ThaiLQ6
 
 #Author: ThaiLQ6
 
