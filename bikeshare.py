@@ -4,6 +4,7 @@ import numpy as np
 #Author ThaiLQ6
 
 #Author: ThaiLQ6
+#Date: 06/01/2024
 
 #Creating a dictionary containing the data sources for the three cities
 CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
